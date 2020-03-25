@@ -1,6 +1,22 @@
-# _[C A M E L O T](https://christinereina.github.io/amusement-park/)_ | Amusement Park_
+# _[C A M E L O T](https://christinereina.github.io/amusement-park/)_ | Amusement Park
 
-:roller_coaster::roller_coaster::roller_coaster:
+   /\                                                        /\
+  |  |                                                      |  |
+ /----\                      Camelot                       /----\
+[______]                                                  [______]
+ |    |         _____                        _____         |    |
+ |[]  |        [     ]                      [     ]        |  []|
+ |    |       [_______][ ][ ][ ][][ ][ ][ ][_______]       |    |
+ |    [ ][ ][ ]|     |  ,----------------,  |     |[ ][ ][ ]    |
+ |             |     |/'    ____..____    '\|     |             |
+  \  []        |     |    /'    ||    '\    |     |        []  /
+   |      []   |     |   |o     ||     o|   |     |  []       |
+   |           |  _  |   |     _||_     |   |  _  |           |
+   |   []      | (_) |   |    (_||_)    |   | (_) |       []  |
+   |           |     |   |     (||)     |   |     |           |
+   |           |     |   |      ||      |   |     |           |
+ /''           |     |   |o     ||     o|   |     |           ''\
+[_____________[_______]--'------''------'--[_______]_____________]
 
 #### Epicodus Week Two | Introduction to Programming JavaScript and jQuery Practice: Branching Exercise, 03.25.2020
 
