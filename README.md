@@ -1,4 +1,4 @@
-# _C A M E L O T | Amusement Park_
+# _[C A M E L O T](https://christinereina.github.io/amusement-park/git) | Amusement Park_
 
 #### Epicodus Week Two | Introduction to Programming JavaScript and jQuery Practice: Branching Exercise, 03.25.2020
 
@@ -17,7 +17,7 @@ Clone my github repository from your computer's Terminal (make sure you are on y
 
 Open folder and drag/drop the index.html file into your preferred web browser
 
-Alternatively, you can also view my porfolio by clicking [here]()
+Alternatively, you can also view my porfolio by clicking [here](https://christinereina.github.io/amusement-park/)
 
 Lastly, enjoy our site!
 

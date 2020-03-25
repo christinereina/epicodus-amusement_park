@@ -22,9 +22,8 @@ body {
   height: 95%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-  clip-path: polygon(50% 0%, 100% 12%, 80% 68%, 50% 100%, 20% 68%, 0 13%);
+  clip-path: polygon(50% 0%, 100% 12%, 80% 68%, 50% 100%, 20% 68%, 0 12%);
   background-image: url('https://lh3.googleusercontent.com/proxy/cQjOm6Azp6tindvoGBv8B8OdEYKsQVqAVnk5Co2ctvD0IxBSmhSrLs6UM7mKN4aeGZIj0-XLV84pajdm47848t5L6zO_MUA');
  background-position: -125px -100px;
 }
@@ -33,6 +32,7 @@ width: 30%;
 }
 #height-form h3{
   text-align: center;
+  font-family: 'Cinzel', serif;
 }
 
 .container>img{
