@@ -7,19 +7,32 @@ h1 {
 body {
   
 }
+.shield-outter{
+  width: 20%;
+  height: 51vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  clip-path: polygon(50% 0%, 100% 12%, 80% 68%, 50% 100%, 20% 68%, 0 13%); 
+  background-image: url('https://cdn.inspirationhut.net/wp-content/uploads/2018/07/gold_metal_wrinkled_paper_by_enchantedgal_stock.jpg');
+}
 #height-form{
-  width: 25%;
-  height: 50vh;
+  width: 95%;
+  height: 95%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   clip-path: polygon(50% 0%, 100% 12%, 80% 68%, 50% 100%, 20% 68%, 0 13%);
-  background-color: silver;
-
+  background-image: url('https://lh3.googleusercontent.com/proxy/cQjOm6Azp6tindvoGBv8B8OdEYKsQVqAVnk5Co2ctvD0IxBSmhSrLs6UM7mKN4aeGZIj0-XLV84pajdm47848t5L6zO_MUA');
+ background-position: -125px -100px;
 }
 #height-form input, #height-form button{
 width: 30%;
+}
+#height-form h3{
+  text-align: center;
 }
 
 .container>img{
@@ -28,6 +41,7 @@ width: 30%;
 }
 
 .container {
+  padding: 100px;
   display: flex;
   flex-direction: column;
   justify-content: center;
