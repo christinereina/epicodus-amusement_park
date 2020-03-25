@@ -6,6 +6,11 @@ h1 {
   text-decoration-line: overline;
 }
 
+h2 {
+  margin-top: -10px;
+  font-family: 'Montserrat', sans-serif;  
+}
+
 h3 {
   font-family: 'Cinzel', serif;
   font-size: 50px;
@@ -14,6 +19,8 @@ h3 {
 
 body {
   background-image: linear-gradient(to top, #ff0000, #f50000, #ec0101, #e20101, #d90101, #ce0101, #c30002, #b80002, #a90003, #9b0002, #8d0002, #7f0000);
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 15px;
 }
 .shadow{
   filter: drop-shadow(5px 10px 8px black)
@@ -65,7 +72,7 @@ body {
   text-align: center;
   font-family: 'Cinzel', serif;
   color: red;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .container>img{
@@ -89,19 +96,49 @@ body {
 }
 .coaster-box{
   width: 25%;
-  border: 1px solid #7f0000;
+  border: 3px solid goldenrod;
   border-radius: 5px;
-  box-shadow: 5px 10px 8px black;
+  box-shadow: 5px 10px 8px rgba(0, 0, 0, 0.503);
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-evenly;
+  background-image: linear-gradient(to right, #d2d2d2, #b7b7b8, #9c9c9f, #828387, #696a6f, #696a6f, #696a6f, #696a6f, #828387, #9c9c9f, #b7b7b8, #d2d2d2);
+  padding: 1rem;
+  text-align: center;
+  color: #7f0000;
 }
-.coaster-cont img{
-  width:80%
+.coaster-box img{
+  max-width: 80%;
+  height: 20vh;
+  margin-bottom: 1rem ;
 }
 
  .no-show {
   display: none;
 }
 
+.btn-danger {
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+#headline {
+  margin-bottom: 10px;
+  color: aliceblue;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif; 
+  text-align: center;
+}
+.btn-success{
+ background-color: goldenrod;
+ border:1px solid rgb(175, 135, 33);
+ transition: all 1s ease-in;
+ color: rgb(61, 61, 61);
+}
+.btn-success:hover{
+  background-color: lightgoldenrodyellow;
+  border:1px solid goldenrod;
+  color: black;
+  box-shadow: 5px 10px 8px rgba(0, 0, 0, 0.503);
+ }

@@ -1,5 +1,18 @@
 # _[C A M E L O T](https://christinereina.github.io/amusement-park/)_ | Amusement Park
-
+<pre>
+                             -|             |-
+         -|                  [-_-_-_-_-_-_-_-]                  |-
+         [-_-_-_-_-]           |           |           [-_-_-_-_-]
+          | o   o |           [  0   0   0  ]           | o   o |
+           |     |    -|       |  CAMELOT  |       |-    |     |
+           |     |_-___-___-___-|         |-___-___-___-_|     |
+           |  o  ]              [    0    ]              [  o  |
+           |     ]   o   o   o  [ _______ ]  o   o   o   [     | ----__________
+_____----- |     ]              [ ||||||| ]              [     |
+           |     ]              [ ||||||| ]              [     |
+       _-_-|_____]--------------[_|||||||_]--------------[_____|-_-_
+      ( (__________------------_____________-------------_________) )
+</pre>
 
 #### Epicodus Week Two | Introduction to Programming JavaScript and jQuery Practice: Branching Exercise, 03.25.2020
 
