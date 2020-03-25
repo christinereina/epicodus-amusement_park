@@ -1,4 +1,4 @@
-# _[C A M E L O T](https://christinereina.github.io/amusement-park/)_ | Amusement Park
+# [C A M E L O T](https://christinereina.github.io/amusement-park/) | Amusement Park
 <pre>
                              -|             |-
          -|                  [-_-_-_-_-_-_-_-]                  |-
@@ -20,7 +20,7 @@ _____----- |     ]              [ ||||||| ]              [     |
 
 ## Description
 
-Our Amusement Park webpage! 
+Our fictional amusement park webpage!
 
 ## Setup/Installation Requirements
 
