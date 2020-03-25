@@ -9,20 +9,41 @@
     <link rel="shortcut icon" href="/img/castle.png" type="image/x-icon">
     <script src="js/jquery-3.4.1.js"></script>
     <script src="js/scripts.js"></script>
-    <title>Camelot | Iowa's Biggest Rollercoaster</title>
+    <title>Camelot | Iowa's Biggest Amusement</title>
   </head>
   <body>
      <div class="container">
        <img src="img/sword.png" alt="image of sword">
       <h1>Camelot</h1>
+      <div class="shadow">
       <div class="shield-outter">
       <form id="height-form">
         <h3>Check your height</h3>
-        <input type="text" placeholder="Feet">
-        <input type="text" placeholder="inches">
+        <input id="feet" type="number" placeholder="Feet">
+        <input id="inches" type="number" placeholder="inches">
         <button class="btn btn-success" type="submit"> Check </button>
       </form>
+      </div>
     </div>
+
+    <div class="coaster-cont">
+      <div class="coaster-box no-show" id="rollercoaster1">
+        <h3>Black Knight</h3>
+        <img src="https://i.pinimg.com/originals/15/f2/4d/15f24d652505c793657f3c427bea7bf3.jpg" alt="">
+        <p></p>
+      </div>
+      <div class="coaster-box no-show" id="rollercoaster2">
+        <h3>King Arthur</h3>
+        <img src="https://www.thesun.co.uk/wp-content/uploads/2019/08/NINTCHDBPICT000515506485-e1566920454318.jpg" alt="">
+        <p>The oldest</p>    
+      </div>
+      <div class="coaster-box no-show" id="rollercoaster3">
+        <h3> Merlin</h3>
+        <img src="https://i.pinimg.com/originals/de/33/36/de3336f8d62a42a2b6bc390767e51567.jpg" alt="">
+        <p></p>
+      </div>
     </div>
+    <button class="btn btn-danger no-show">Enter a new height</button>
+  </div>
   </body>
 </html>
