@@ -1,4 +1,4 @@
-# _[C A M E L O T](https://christinereina.github.io/amusement-park/) | Amusement Park_
+# _[C A M E L O T](https://christinereina.github.io/amusement-park/)_ | Amusement Park_
 
 :roller_coaster::roller_coaster::roller_coaster:
 
