@@ -5,10 +5,11 @@ h1 {
 }
 
 body {
-  
+  background-image: linear-gradient(to top, #ff0000, #f50000, #ec0101, #e20101, #d90101, #ce0101, #c30002, #b80002, #a90003, #9b0002, #8d0002, #7f0000);
 }
+
 .shield-outter{
-  width: 20%;
+  width: 25%;
   height: 51vh;
   display: flex;
   flex-direction: column;
@@ -25,19 +26,35 @@ body {
   align-items: center;
   clip-path: polygon(50% 0%, 100% 12%, 80% 68%, 50% 100%, 20% 68%, 0 12%);
   background-image: url('https://lh3.googleusercontent.com/proxy/cQjOm6Azp6tindvoGBv8B8OdEYKsQVqAVnk5Co2ctvD0IxBSmhSrLs6UM7mKN4aeGZIj0-XLV84pajdm47848t5L6zO_MUA');
- background-position: -125px -100px;
+  background-position: -125px -100px;
 }
-#height-form input, #height-form button{
-width: 30%;
+#height-form input{
+  height: 10%;
+  width: 30%;
+  background: none;
+  text-align: center;
+  border: none;
+  border-bottom:1px solid goldenrod;
+  
+
+}
+#height-form input::placeholder{
+  color:red
+}
+#height-form button{
+  margin-top: 2%;
+  width: 30%;
 }
 #height-form h3{
+  padding-top: 2rem;
   text-align: center;
   font-family: 'Cinzel', serif;
+  color: red;
 }
 
 .container>img{
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
 }
 
 .container {

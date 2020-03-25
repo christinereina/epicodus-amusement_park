@@ -1,4 +1,4 @@
-# _[C A M E L O T](https://christinereina.github.io/amusement-park/git) | Amusement Park_
+# _[C A M E L O T](https://christinereina.github.io/amusement-park/) | Amusement Park_
 
 #### Epicodus Week Two | Introduction to Programming JavaScript and jQuery Practice: Branching Exercise, 03.25.2020
 
