@@ -1,5 +1,7 @@
 # _[C A M E L O T](https://christinereina.github.io/amusement-park/) | Amusement Park_
 
+:roller_coaster::roller_coaster::roller_coaster:
+
 #### Epicodus Week Two | Introduction to Programming JavaScript and jQuery Practice: Branching Exercise, 03.25.2020
 
 #### By _**Christine Augustine & Eric Settels**_
@@ -10,14 +12,14 @@ Our Amusement Park webpage!
 
 ## Setup/Installation Requirements
 
-Clone my github repository from your computer's Terminal (make sure you are on your Desktop)
+Clone our github repository from your computer's Terminal (make sure you are on your Desktop)
 
 * cd desktop
 * git clone https://github.com/christinereina/amusement-park
 
 Open folder and drag/drop the index.html file into your preferred web browser
 
-Alternatively, you can also view my porfolio by clicking [here](https://christinereina.github.io/amusement-park/)
+Alternatively, you can also view our webpage by clicking [here](https://christinereina.github.io/amusement-park/)
 
 Lastly, enjoy our site!
 
