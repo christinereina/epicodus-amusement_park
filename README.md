@@ -1,4 +1,4 @@
-# [C A M E L O T](hhttps://christinereina.github.io/epicodus-amusement_park/) | Amusement Park
+# [C A M E L O T](https://christinereina.github.io/epicodus-amusement_park/) | Amusement Park
 <pre>
                              -|             |-
          -|                  [-_-_-_-_-_-_-_-]                  |-
