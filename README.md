@@ -1,4 +1,4 @@
-# [C A M E L O T](https://christinereina.github.io/amusement-park/) | Amusement Park
+# [C A M E L O T](hhttps://christinereina.github.io/epicodus-amusement_park/) | Amusement Park
 <pre>
                              -|             |-
          -|                  [-_-_-_-_-_-_-_-]                  |-
@@ -31,7 +31,7 @@ Clone our github repository from your computer's Terminal (make sure you are on 
 
 Open folder and drag/drop the index.html file into your preferred web browser
 
-Alternatively, you can also view our webpage by clicking [here](https://christinereina.github.io/amusement-park/)
+Alternatively, you can also view our webpage by clicking [https://christinereina.github.io/epicodus-amusement_park/](https://christinereina.github.io/amusement-park/)
 
 Lastly, enjoy our site!
 
