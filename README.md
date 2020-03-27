@@ -27,7 +27,7 @@ Our fictional amusement park webpage!
 Clone our github repository from your computer's Terminal (make sure you are on your Desktop)
 
 * cd desktop
-* git clone https://github.com/christinereina/amusement-park
+* git clone https://github.com/christinereina/epicodus-amusement_park
 
 Open folder and drag/drop the index.html file into your preferred web browser
 
